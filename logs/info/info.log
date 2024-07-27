@@ -1,0 +1,6 @@
+[18-Jul-2024 11:29:28.802] WARN-- HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13h19m44s783ms51µs400ns).
+[18-Jul-2024 11:30:47.166] INFO-- Application shutdown requested.
+[18-Jul-2024 11:30:47.299] INFO-- Stopping ProtocolHandler ["http-nio-8080"]
+[18-Jul-2024 11:30:47.359] INFO-- Closing JPA EntityManagerFactory for persistence unit 'default'
+[18-Jul-2024 11:30:47.397] INFO-- HikariPool-1 - Shutdown initiated...
+[18-Jul-2024 11:30:47.414] INFO-- HikariPool-1 - Shutdown completed.
